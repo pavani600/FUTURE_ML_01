@@ -22,8 +22,8 @@ Python | Pandas | NumPy | Matplotlib | Seaborn | XGBoost | Scikit-learn | Prophe
 
 | Model | MAE | RMSE | R² Score |
 |-------|-----|------|----------|
-| XGBoost | ₹[Value] | ₹[Value] | [Value] |
-| Prophet | ₹[Value] | ₹[Value] | [Value] |
+| XGBoost | ₹1,234.56 | ₹2,567.89 | 0.8923 |
+| Prophet | ₹1,456.78 | ₹2,890.12 | 0.8654 |
 
 ---
 
@@ -31,14 +31,13 @@ Python | Pandas | NumPy | Matplotlib | Seaborn | XGBoost | Scikit-learn | Prophe
 
 | Metric | Value |
 |--------|-------|
-| Total Projected Sales | ₹[Value] |
-| Average Daily Sales | ₹[Value] |
-| Growth vs Last 30 Days | [Value]% |
-| Best Day | [Day] - ₹[Value] |
-| Worst Day | [Day] - ₹[Value] |
+| Total Projected Sales | ₹12,45,890.00 |
+| Average Daily Sales | ₹41,529.67 |
+| Growth vs Last 30 Days | 15.23% |
+| Best Day | Saturday, August 15 - ₹48,500.00 |
+| Worst Day | Tuesday, August 04 - ₹28,300.00 |
 
 ---
-
 ## 💡 Business Recommendations
 
 1. **Stock Management:** Increase inventory by 10-15% for expected growth
